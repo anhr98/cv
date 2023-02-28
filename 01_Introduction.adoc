@@ -1,4 +1,4 @@
-Introduction:
-•         This website contains my CV and other relevant information about my professional experience.
-•         The purpose of the website is to showcase my skills and experience to potential employers.
-•         The intended audience includes recruiters, hiring managers, and other professionals who may be interested in my work.
+1. Introduction:
+• This website contains my CV and other relevant information about my professional experience.
+• The purpose of the website is to showcase my skills and experience to potential employers.
+• The intended audience includes recruiters, hiring managers, and other professionals who may be interested in my work.
