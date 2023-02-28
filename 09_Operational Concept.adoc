@@ -1,0 +1,3 @@
+9. Operational Concept:
+• Users will access my repository through a web browser.
+• My repository will be maintained and updated regularly to ensure accuracy and relevance.
