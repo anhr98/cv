@@ -1,0 +1,6 @@
+2. Quality Goals:
+I chose github because:
+• Usability: the website is easy to navigate and use.
+• Performance: it loads quickly and it is responsive.
+• Security: it is secure and protect user data.
+• Compliance: it is comply with relevant laws and regulations.
