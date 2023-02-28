@@ -1,0 +1,4 @@
+7. Architecture and Design:
+• The website will be built using HTML, CSS, and JavaScript.
+• The structure of the website will be simple and easy to navigate.
+• The design will be minimalist and professional, with a focus on highlighting my experience and skills.
