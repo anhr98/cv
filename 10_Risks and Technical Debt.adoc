@@ -1,0 +1,3 @@
+10. Risks and Technical Debt:
+• Performance may be impacted by high traffic or limited server resources.
+• Technical debt may accrue over time due to outdated technologies or design choices.
