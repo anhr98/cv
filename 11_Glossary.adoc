@@ -1,0 +1,4 @@
+11. Glossary:
+• HTML: Hypertext Markup Language, used to create web pages.
+• CSS: Cascading Style Sheets, used to style web pages.
+• JavaScript: a programming language used to add interactivity to web pages.
