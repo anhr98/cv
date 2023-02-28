@@ -1,0 +1,5 @@
+6. Non-Functional Requirements:
+• Usability: the website should be easy to navigate and use.
+• Performance: the website should load quickly and be responsive.
+• Security: the website should be secure and protect user data.
+• Compliance: the website should comply with relevant laws and regulations.
