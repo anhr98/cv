@@ -1,0 +1,15 @@
+++++
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      .red {
+        color: red;
+      }
+    </style>
+  </head>
+  <body>
+    <p class="red">C4</p>
+  </body>
+</html>
+++++
